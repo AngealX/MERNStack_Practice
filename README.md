@@ -47,7 +47,7 @@ https://github.com/AngealX/MERNStack_Practice/assets/58092636/34a40b1d-b2ea-4d70
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/dc7ad109-978d-4ac9-a1f2-039335e4382b
 <br>
 
-Next two videos are together (was taking up to much space to put all on one video)
+Next two videos are together and shows what happens when you delete one of the cards and how that will delete the data of that card from the MongoDB(was taking up to much space to put all on one video)
 <br>
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/7bfcaf9c-68fc-490c-8bf4-48fa6a26e748
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/bca2892c-15ca-4be4-b79a-b1d01be9b16c
