@@ -55,6 +55,10 @@ Next two videos are together and shows what happens when you delete one of the c
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/7bfcaf9c-68fc-490c-8bf4-48fa6a26e748
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/bca2892c-15ca-4be4-b79a-b1d01be9b16c
 
+# Quick Note
+if you want to enter your information to connect to your MongoDB, be sure to go to the "index.js" file that is located in the "server" folder. Once you open that file, enter your password and name of your database on the line that says: " const CONNECTION_URL = 'mongodb+srv://Cluster0:<Enter password of database here>@cluster0.lbvhz0a.mongodb.net/?retryWrites=true&w=majority' "
+
+
 
 
 
