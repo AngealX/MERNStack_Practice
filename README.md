@@ -19,6 +19,7 @@ Next, you will need to use the command "npm start" for both the server and clien
 <br> 
 <img width="800" alt="Screenshot 2023-08-28 at 8 55 00 PM" src="https://github.com/AngealX/MERNStack_Practice/assets/58092636/5882feb8-b5b5-48ee-a791-c07e8afc5514">
 <br>
+
 After you see this certification on the server side, you type in "npm start" on the client: 
 <br>
 <img width="800" alt="Screenshot 2023-08-28 at 8 56 49 PM" src="https://github.com/AngealX/MERNStack_Practice/assets/58092636/825ab736-a26b-41ca-a098-f80b8cda09a5">
