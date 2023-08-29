@@ -44,7 +44,10 @@ https://github.com/AngealX/MERNStack_Practice/assets/58092636/9c17f5d5-af52-441e
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/34a40b1d-b2ea-4d70-94fa-cf950110549d
 
 <br>
+<br>
+This video shows what will happen if you click on the three dots in the cards (which will allow you to re-enter information or change information on the card). If you make any changes for the card/post and update that information, then it will show in the database (shown in the last two videos) 
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/dc7ad109-978d-4ac9-a1f2-039335e4382b
+<br>
 <br>
 
 Next two videos are together and shows what happens when you delete one of the cards and how that will delete the data of that card from the MongoDB(was taking up to much space to put all on one video)
