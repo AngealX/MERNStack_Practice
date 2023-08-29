@@ -29,7 +29,7 @@ If everything goes well, then you should be able to see this webpage:
 https://github.com/AngealX/MERNStack_Practice/assets/58092636/5cc31cad-0868-405d-b959-b8abe9f8cf9b
 
 <br>
-# Showing A Full Run Of The Site 
+
 
 
 
